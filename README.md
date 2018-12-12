@@ -16,4 +16,4 @@ I designed to this project for model plane tracking with walkie-Talkie. This typ
 • 159,375 Mhz
 • 162 Mhz
 
-![Technical Draw](https://i.hizliresim.com/V0Jv7q.png)
+![Technical Draw](https://github.com/mertguner/Fixed-Frequency-Radio-Beacon/raw/master/Technical%20Draw.png)
